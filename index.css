@@ -1,4 +1,4 @@
 p{
     color: blueviolet;
-    font-style: italic  ;
+    font-style: calc(calc(italic) + normal);
 }
